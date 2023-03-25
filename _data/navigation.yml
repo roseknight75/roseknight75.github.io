@@ -5,17 +5,24 @@ main:
   - title: "태그"
     url: /tags/
   - title: "연도별"
-    url: /year-archive/
+    url: /year-archive-grid/
   - title: "검색"
     url: /search/
 
 docs:
-  - title: "대목차1"
+  - title: "대목차"
     children:
       - title: "카테고리"
         urel: /categories/
       - title: "태그"
         url: /tags/
+
+counts:
+  - title: "카테고리"
+    use: true
+  - titl: "태그"
+    use: true
+
   
   #- title: "대목차2"
   #  children:
