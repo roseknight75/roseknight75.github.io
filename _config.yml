@@ -24,7 +24,7 @@ description              : "드론항공촬영 A팀"
 url                      : "https://roseknight75.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/roseknight75/roseknight.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "../assets/images/500x300.png"
 logo                     : "../assets/images/profile/profile.png"
 masthead_title           : "H&F DESIGN STUDIO | 항공촬영팀"
 # breadcrumbs            : false # true, false (default)
@@ -127,13 +127,13 @@ author:
       url: "https://github.com/tocam75/gentoo_2"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/monocamo/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       # url: "https://instagram.com/"
     - label: "Flickr"
       icon: "fab fa-fw fa-flickr"
-      url: "https://www.flickr.com/photos/time_spirit/"
+      # url: "https://www.flickr.com/photos/time_spirit/"
 
 # Site Footer
 footer:
