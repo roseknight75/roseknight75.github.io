@@ -25,7 +25,7 @@ url                      : "https://roseknight75.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/roseknight75/roseknight.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "../assets/images/profile/profile.png"
 masthead_title           : "H&F DESIGN STUDIO | 항공촬영팀"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Aerial Photograph"
   avatar           : "../assets/images/profile/profile_1.png"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "**항공촬영 A팀**"
+  location         : "Repulic of Korea: 경기도"
   email            :
   links:
     - label: "Email"
