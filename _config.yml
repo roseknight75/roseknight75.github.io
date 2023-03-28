@@ -104,18 +104,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aerial Photograph"
+  name             : "H&F Stuido | 항공촬영팀"
   avatar           : "../assets/images/profile/profile_1.png"
-  bio              : "**항공촬영 A팀**"
-  location         : "Repulic of Korea: 경기도"
+  bio              : "**H&F STUDIO 항공촬영팀**"
+  location         : "대한민국: 경기도"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:roseozco@gmail.com"
-    - label: "Website"
+    - label: "기획 | 홍보 | 총무"
       icon: "fas fa-fw fa-link"
-      url: "https://roseknight75.github.io"
+      url: "https://tocam75.github.io"
+    - label: "영상제작팀"
+      icon: "fas fa-fw fa-link"
+      url: "https://camera49.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
