@@ -30,7 +30,7 @@ masthead_title           : "H&F DESIGN STUDIO | 항공촬영팀"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : utterances # (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "utterances" # (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : #"roseknight75"
   discourse:
