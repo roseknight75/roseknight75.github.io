@@ -23,14 +23,14 @@ name                     : "Roseknight75 | Drone World"
 description              : "드론항공촬영 A팀"
 url                      : "https://roseknight75.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "roseknight75/blog-comment"
+repository               : "roseknight75/comment"
 teaser                   : "../assets/images/500x300.png"
 logo                     : "../assets/images/profile/profile.png"
 masthead_title           : "H&F DESIGN STUDIO | 항공촬영팀"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : disqus # (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : utterances # (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : "roseknight75"
   discourse:
@@ -41,8 +41,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" #(default), "github-dark"
-    issue_term           : # "pathname" #(default)
+    theme                : "boxy-light" #(default), "github-dark"
+    issue_term           : "pathname" #(default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
