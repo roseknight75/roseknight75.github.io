@@ -10,18 +10,20 @@ main:
     url: /search/
 
 docs:
-  - title: "대목차"
+  - title: "목차"
     children:
       - title: "카테고리"
-        urel: /categories/
+        url: /categories/
       - title: "태그"
         url: /tags/
+      - title: "일러두기 📢"
+        url: /about/
 
-counts:
-  - title: "카테고리"
-    use: true
-  - titl: "태그"
-    use: true
+#counts:
+#  - title: "카테고리"
+#    use: true
+#  - titl: "태그"
+#    use: true
 
   
   #- title: "대목차2"
